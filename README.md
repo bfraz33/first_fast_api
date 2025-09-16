@@ -9,7 +9,7 @@ This fast api is my first build. A simple API created in a python VENV, this is 
 
 # Installation and setup
 -Clone this repo
-https://github.com/bfraz33/first_fast_api/edit/main/README.md
+https://github.com/bfraz33/first_fast_api.git
 
 # Create and activate VENV
 python -m venv env
