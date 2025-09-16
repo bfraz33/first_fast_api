@@ -1,8 +1,8 @@
-from fastapi import FastAPI
+from fastapi import FastAPI # Importing FastApi Library
 
-app = FastAPI()
+app = FastAPI() # Establishing webserver object
 
-@app.get("/")
-def read_root():
+@app.get("/") # Decorator getting root
+def read_root():# Defining Root
 
-    return{"Connected to your first api✅! Welcome to FastApi!!"}
+    return{"Connected to your first api✅! Welcome to FastApi!!"} # Output
